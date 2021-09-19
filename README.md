@@ -1,5 +1,5 @@
 # (more)ning
-The app that give you back more of your mornings. 
+The app that gives you back more of your mornings. 
 
 ## Table of contents
 * [Introduction](#intro)
